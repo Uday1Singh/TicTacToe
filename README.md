@@ -1,2 +1,2 @@
 # TicTacToe
-<blockquote>Hey, this is my first python game</blockquote>
+<blockquote>Hey, this is a TICTACTOE game based on Python</blockquote>
